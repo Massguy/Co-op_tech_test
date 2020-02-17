@@ -5,6 +5,7 @@ import SearchJokes from "./Components/SearchJokes";
 import Home from "./Components/Home";
 import { Router } from "@reach/router";
 import Nav from "./Components/Nav";
+import EndpointError from "./Components/EndpointError";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Home path="/" />
         <RandomJoke path="/random" />
         <SearchJokes path="/search" />
+        <EndpointError default />
       </Router>
     </div>
   );
