@@ -5,9 +5,15 @@
 <p>This is a simple react project that allows the user to dynamically get Chuck Norris Jokes.
 As a user you are able to Get a random joke or a personalised Joke. The personalised Joke will allow the user to type in any name and instead of Chuck Norris the name in the joke will be the typed in name.</p>
 <h2>Installation </h2>
-<h4>npm run start </h3>
-<p>Allows the user to open the Project locally</p>
+<h3>step 1</h3>
+<h4>git clone https://github.com/Massguy/Co-op_tech_test.git </h4>
+<h3>step 2</h3>
+<h4>npm install </h4>
+<h3>step 3</h3>
+<h4>npm start </h3>
 
+<p>Allows the user to open the Project locally</p>
+<h3>step 4 </h4>
 <h4>npm run test </h4>
 <p>Allows the user to run all the tests in this project</p>
 
